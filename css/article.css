@@ -1,0 +1,51 @@
+html {
+	box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+img {
+	max-width: 100%;
+}
+
+body {
+	font-family: 'font', sans-serif;
+}
+
+.main-info {
+    padding: 10vh 45vh;
+}
+
+.paragraph {
+    margin-bottom: 40px;
+
+}
+.first-block {
+    padding: 30px;
+    background-color: #F2F0F1;
+    border-radius: 20px;
+}
+
+.block-title {
+    margin: 0;
+}
+
+.image {
+    margin-bottom: 50px;
+    margin: 0;
+}
+
+.second-block {
+    padding: 30px;
+    background-color: #F2F0F1;
+    border-radius: 20px;
+}
